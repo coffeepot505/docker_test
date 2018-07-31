@@ -8,6 +8,8 @@
 FROM ubuntu:12.10
 FROM python:2.7
 
+USER abcd
+
 # Update OS.
 RUN echo "deb http://archive.ubuntu.com/ubuntu quantal main universe multiverse" > /etc/apt/sources.list
 RUN apt-get update
