@@ -1,4 +1,0 @@
-abcdef>=12.9
-xcvbdijcd
-schbices==3.3
-fvnjdkfvf<=3.2
